@@ -30,9 +30,16 @@ Date-fns: The internal engine used to calculate dates, months, and sprint durati
 - 📈 Sprint Progress Bar: Shows percentage of time passed in selected date range  
 - 🔍 Hero Zoom: Smooth image zoom effect on hover using animation  
 - 🌓 Theme Engine: Smart dark/light mode with optimized visuals  
-- 🗄️ Note Vault: Saves personal and work notes using local storage  
+- 🗄️ Note Vault: Saves personal and work notes using local storage
+- 📱 Mobile-friendly design 
 
 📂 Project Organization:
 
 WallCalendar.jsx: The main interface.This is where the visual "Blueprint" lives, including the theme logic and the layout.
 useCalendar.js: The "brain" of the app.It handles the math for the dates, saves your notes, and manages the range selection.
+
+
+
+Demo video:
+https://github.com/user-attachments/assets/f1352078-2345-4634-a6e9-620c6a0f7c35
+
