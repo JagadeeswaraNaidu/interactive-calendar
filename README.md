@@ -41,5 +41,8 @@ useCalendar.js: The "brain" of the app.It handles the math for the dates, saves 
 
 
 Demo video:
-https://github.com/user-attachments/assets/f1352078-2345-4634-a6e9-620c6a0f7c35
+
+https://github.com/user-attachments/assets/3e4e608d-24c3-4d8d-aa5f-f6e8296e2071
+
+
 
